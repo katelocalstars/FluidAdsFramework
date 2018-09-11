@@ -1,2 +1,2 @@
-# LocalStarsFramework
-Test Framework for Local Stars Platform
+# FluidAdsFramework
+Test Framework for FluidAds Platform
